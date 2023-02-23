@@ -107,5 +107,7 @@ puts loves_to_play || loves_dog_park
 
 # Determine if the dog loves to play and is a puppy
 puts loves_to_play && age
+
 # What did your final line of code evaluate to? Why do you think that is? Explain.
-# ANSWER:
+# ANSWER: "1". That is because the both values must be true or false for "true" or "false".
+# in this case, the integer from age(1) is not the same as "true" from loves_to_play
